@@ -21,4 +21,4 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
         name: AdmobNative-release.aar
-        path: audioplayerview/build/outputs/aar/AdmobNative-release.aar
+        path: AdmobNative/build/outputs/aar/AdmobNative-release.aar
